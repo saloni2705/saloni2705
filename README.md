@@ -6,7 +6,15 @@ Full Stack Developer building scalable enterprise applications and automation so
 </div>
 
 ---
+## 💼 Experience  
 
+**IT Associate Tech Engineer (Deputy Manager)**  
+Axis Bank  
+
+Working on Retail Lending platforms and internal automation solutions.  
+Involved in application enhancement, PL/SQL development, and process automation to improve operational efficiency.
+
+---
 ## 🔧 Technologies  
 
 ### Languages  
