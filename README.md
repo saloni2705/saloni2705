@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Saloni 👋  
-Backend-focused Software Engineer working on enterprise banking systems and automation solutions.
+Full Stack Developer building scalable enterprise applications and automation solutions.
 
 </div>
 
